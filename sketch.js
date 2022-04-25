@@ -2,6 +2,8 @@
 
 /*
 Worked alongside Priscilla Esteves on Exercise
+
+use the WSAD keys to move the player
 */
 var spr;
 var ct;
