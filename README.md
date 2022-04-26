@@ -2,7 +2,7 @@
 
 ## GDD-140 Exercise 10.0
 
-<!-- Badges Here -->
+[![Build Pages](https://github.com/LittleTealeaf/GDD-140-Exercise-10.0/actions/workflows/github-pages.yml/badge.svg)](https://github.com/LittleTealeaf/GDD-140-Exercise-10.0/actions/workflows/github-pages.yml)
 
 [**View Project**](https://littletealeaf.github.io/GDD-140-Exercise-10.0/)
 
